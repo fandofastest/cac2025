@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg: #0f1113;
+  --fg: #e7e9ec;
+}
+
+html, body {
+  height: 100%;
+}
+
+body {
+  @apply bg-brand-900 text-brand-50 antialiased;
+}
+
+.container-responsive {
+  @apply max-w-6xl mx-auto px-4 sm:px-6 lg:px-8;
+}
+
+.link {
+  @apply text-accent-400 hover:text-accent-300 transition-colors;
+}
+
+.card {
+  @apply bg-brand-800/70 border border-white/10 rounded-lg shadow-sm hover:border-accent-500/30 hover:shadow-[0_0_0_1px_rgba(255,59,59,0.15)];
+}
+
+.btn-primary {
+  @apply inline-flex items-center justify-center rounded-md bg-accent-500 text-white px-5 py-2.5 font-medium hover:bg-accent-400 focus:outline-none focus:ring-2 focus:ring-accent-500/40 transition-colors;
+}
+
+.section {
+  @apply py-12 sm:py-16 md:py-20;
+}

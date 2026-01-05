@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-label="Minimal rear lights line">
+  <rect width="1200" height="800" fill="#23282d"/>
+  <path d="M220 420 H980" stroke="#fff" stroke-opacity="0.22" stroke-width="3"/>
+  <rect x="240" y="450" width="120" height="14" rx="7" fill="#ff3040" fill-opacity="0.5"/>
+  <rect x="840" y="450" width="120" height="14" rx="7" fill="#ff3040" fill-opacity="0.5"/>
+</svg>

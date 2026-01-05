@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-label="Curved bonnet line">
+  <rect width="1200" height="800" fill="#20252a"/>
+  <path d="M120 500 C 300 380, 600 360, 1080 480" stroke="#fff" stroke-opacity="0.35" stroke-width="4" fill="none"/>
+  <circle cx="280" cy="560" r="28" fill="none" stroke="#fff" stroke-opacity="0.35" stroke-width="4"/>
+  <circle cx="960" cy="560" r="28" fill="none" stroke="#fff" stroke-opacity="0.35" stroke-width="4"/>
+</svg>

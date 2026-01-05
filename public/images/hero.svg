@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-label="Abstract automotive silhouette">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.06"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="#1b1f23"/>
+  <g fill="none" stroke="url(#g)" stroke-width="2">
+    <path d="M100 520 C 260 420, 430 380, 620 400 C 790 420, 960 470, 1100 520"/>
+    <path d="M160 560 C 320 460, 480 420, 640 440 C 820 460, 980 510, 1080 560" opacity="0.6"/>
+    <path d="M130 600 C 300 520, 500 500, 760 520 C 920 540, 1040 560, 1120 600" opacity="0.35"/>
+  </g>
+  <g fill="none" stroke="#ffffff" stroke-opacity="0.2" stroke-width="3">
+    <path d="M250 470 C 330 430, 420 420, 520 430 C 660 445, 800 470, 920 500"/>
+  </g>
+  <circle cx="370" cy="560" r="36" fill="#ffffff" fill-opacity="0.08"/>
+  <circle cx="870" cy="580" r="36" fill="#ffffff" fill-opacity="0.08"/>
+</svg>

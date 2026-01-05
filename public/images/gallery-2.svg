@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-label="Minimal wheel and road">
+  <rect width="1200" height="800" fill="#252a2f"/>
+  <path d="M80 620 C 200 560, 460 540, 840 560 C 980 570, 1100 590, 1180 620" stroke="#fff" stroke-opacity="0.25" stroke-width="4" fill="none"/>
+  <circle cx="360" cy="550" r="48" fill="none" stroke="#fff" stroke-opacity="0.45" stroke-width="4"/>
+  <circle cx="840" cy="570" r="48" fill="none" stroke="#fff" stroke-opacity="0.45" stroke-width="4"/>
+</svg>
