@@ -17,6 +17,9 @@ export const metadata: Metadata = {
     "Events",
     "UK Private Limited Company"
   ],
+  verification: {
+    google: "nBtdfzm8oMg5wzVQ61x4ySphRlQtlNsGq9JN7DBKvlI",
+  },
   openGraph: {
     title: "CARS AND COFFEE CHESTER LTD",
     description: "Automotive community events and brand collaborations in Chester, UK.",
